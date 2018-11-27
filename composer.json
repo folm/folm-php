@@ -27,7 +27,7 @@
     "ext-gmp": "*",
     "ext-openssl": "*",
     "ext-bcmath": "*",
-    "paragonie/random_compat": "^1.4.0|^2.0.0",
+    "folm/random_compat": "^2.0.0",
     "pleonasm/merkle-tree": "1.0.0",
     "composer/semver": "^1.4.0",
     "lastguest/murmurhash": "v1.3.0",
